@@ -1,0 +1,6 @@
+@tailwind base;
+
+/* All of the existing CSS goes here. */
+
+@tailwind components;
+@tailwind utilities;
